@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kaan/CLionProjects/Group 12 CMPDarkestDungeonProject/Unit.cpp
+iostream
+-
+vector
+-
+Unit.h
+C:/Users/Kaan/CLionProjects/Group 12 CMPDarkestDungeonProject/Unit.h
+
+C:/Users/Kaan/CLionProjects/Group 12 CMPDarkestDungeonProject/Unit.h
+iostream
+-
+

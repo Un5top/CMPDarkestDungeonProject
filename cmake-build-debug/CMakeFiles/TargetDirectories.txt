@@ -1,0 +1,3 @@
+C:/Users/Kaan/CLionProjects/Group 12 CMPDarkestDungeonProject/cmake-build-debug/CMakeFiles/CMPDarkestDungeonProject.dir
+C:/Users/Kaan/CLionProjects/Group 12 CMPDarkestDungeonProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kaan/CLionProjects/Group 12 CMPDarkestDungeonProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CMPDarkestDungeonProject" targetName="CMPDarkestDungeonProject" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-MinGW" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="MinGW" />
+      <configuration PROFILE_NAME="Release-MinGW" ENABLED="true" CONFIG_NAME="Release" TOOLCHAIN_NAME="MinGW" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38089e1e-7469-435a-a1ef-501bd4517f6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-MinGW" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1at6jTlgUr6KcVe8FkHwvkDPpi1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CMPDarkestDungeonProject" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CMPDarkestDungeonProject" TARGET_NAME="CMPDarkestDungeonProject" CONFIG_NAME="Debug-MinGW" RUN_TARGET_PROJECT_NAME="CMPDarkestDungeonProject" RUN_TARGET_NAME="CMPDarkestDungeonProject">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38089e1e-7469-435a-a1ef-501bd4517f6c" name="Default Changelist" comment="" />
+      <created>1587542677423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587542677423</updated>
+      <workItem from="1587542679078" duration="23812000" />
+      <workItem from="1587568104651" duration="18000" />
+      <workItem from="1587568220539" duration="522000" />
+      <workItem from="1587568779216" duration="13769000" />
+      <workItem from="1587584942800" duration="627000" />
+      <workItem from="1587585987371" duration="9982000" />
+      <workItem from="1587595990962" duration="1313000" />
+      <workItem from="1587628788129" duration="18882000" />
+      <workItem from="1587650495926" duration="10106000" />
+      <workItem from="1587660846457" duration="14842000" />
+      <workItem from="1587676043471" duration="13000" />
+      <workItem from="1587676158637" duration="112000" />
+      <workItem from="1587677024574" duration="1340000" />
+      <workItem from="1587714604128" duration="11645000" />
+      <workItem from="1587730308174" duration="529000" />
+      <workItem from="1587730918989" duration="6000" />
+      <workItem from="1587732998551" duration="2508000" />
+      <workItem from="1587736116775" duration="16000" />
+      <workItem from="1587736207963" duration="36000" />
+      <workItem from="1587737484532" duration="7483000" />
+      <workItem from="1587744987267" duration="12330000" />
+      <workItem from="1587757894332" duration="117000" />
+      <workItem from="1587907528092" duration="214000" />
+      <workItem from="1587907779585" duration="8707000" />
+      <workItem from="1587988774064" duration="1010000" />
+      <workItem from="1587994661556" duration="215000" />
+      <workItem from="1587994921457" duration="1229000" />
+      <workItem from="1588020884819" duration="515000" />
+      <workItem from="1588851472410" duration="77000" />
+      <workItem from="1588852111059" duration="288000" />
+      <workItem from="1588855578384" duration="26000" />
+      <workItem from="1588855646233" duration="26000" />
+      <workItem from="1589137015492" duration="830000" />
+      <workItem from="1589195442088" duration="10000" />
+      <workItem from="1589195485112" duration="16000" />
+      <workItem from="1589202224255" duration="254000" />
+      <workItem from="1589202748331" duration="6078000" />
+      <workItem from="1589208836950" duration="3416000" />
+      <workItem from="1589212342905" duration="107000" />
+      <workItem from="1589212530894" duration="28000" />
+      <workItem from="1589447369597" duration="4545000" />
+      <workItem from="1589451937253" duration="876000" />
+      <workItem from="1589452843550" duration="1000" />
+      <workItem from="1589476220059" duration="5332000" />
+      <workItem from="1589481744432" duration="624000" />
+      <workItem from="1589482459181" duration="2976000" />
+      <workItem from="1589485706581" duration="7000" />
+      <workItem from="1589486111345" duration="1143000" />
+      <workItem from="1589487332585" duration="31000" />
+      <workItem from="1589487431301" duration="1000000" />
+      <workItem from="1589488704695" duration="255000" />
+      <workItem from="1589489125591" duration="159000" />
+      <workItem from="1590923314874" duration="731000" />
+      <workItem from="1591007461770" duration="1436000" />
+      <workItem from="1591021165271" duration="46000" />
+      <workItem from="1591021491591" duration="1751000" />
+      <workItem from="1592808842749" duration="12000" />
+      <workItem from="1655202646698" duration="98000" />
+      <workItem from="1655202812457" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
